@@ -9,8 +9,8 @@ $ make parse-2gis
 ```
 #### Settings:
 В файле 'search-settings.py'
-SEARCH_QUERY - запрос за русском языке
-CITY - город на ангийском языке (например 'perm'), по умолчанию 'moscow'
+##### SEARCH_QUERY - запрос за русском языке
+##### CITY - город на ангийском языке (например 'perm'), по умолчанию 'moscow'
 
 ### Setup 
 #### Using Makefile:
